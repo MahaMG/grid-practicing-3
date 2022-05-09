@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://mahamg.github.io/testimonials-grid-section-main/)
+- Live Site URL: [Here](https://mahamg.github.io/testimonials-grid-section-main/)
 
 ## My process
 
