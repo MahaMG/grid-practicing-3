@@ -20,12 +20,11 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./images/Screen Shot.png" width="400">
+<img src="./images/Screen Shot.png" width="500">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mahamg.github.io/testimonials-grid-section-main/)
 
 ## My process
 
